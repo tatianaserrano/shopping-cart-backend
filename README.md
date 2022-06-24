@@ -19,7 +19,7 @@ npm start
 npm start
 ```
 
-Esta aplicación también se puede ver en el siguiente enlace: 
+Esta aplicación también se puede ver en el siguiente enlace: https://meridian-cart-backend.herokuapp.com/products
 
 Documentación: https://documenter.getpostman.com/view/16003239/UzBqqRFj
 
