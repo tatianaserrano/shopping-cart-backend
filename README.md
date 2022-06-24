@@ -19,6 +19,13 @@ npm start
 npm start
 ```
 
+Esta aplicación también se puede ver en el siguiente enlace: 
+
+Documentación: https://documenter.getpostman.com/view/16003239/UzBqqRFj
+
 Base de datos:
 ![](https://github.com/tatianaserrano/shopping-cart-backend/blob/main/src/assets/bd.png)
+![](https://github.com/tatianaserrano/shopping-cart-backend/blob/main/src/assets/get-products.png)
+![](https://github.com/tatianaserrano/shopping-cart-backend/blob/main/src/assets/get-coupons.png)
+![](https://github.com/tatianaserrano/shopping-cart-backend/blob/main/src/assets/post-purchase.png)
 
