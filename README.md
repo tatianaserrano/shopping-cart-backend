@@ -18,3 +18,7 @@ npm start
 ```sh
 npm start
 ```
+
+Base de datos:
+![](https://github.com/tatianaserrano/shopping-cart-backend/blob/main/src/assets/bd.png)
+
